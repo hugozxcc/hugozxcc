@@ -68,6 +68,9 @@ Currently strengthening my skills in **AI/ML applied to genomics** as preparatio
 - 📍 Jakarta, Indonesia
 
 ---
+<p align="center">
+  <img src="terminal.svg" alt="terminal animation" />
+</p>
 
 <p align="center">
   <i>"Building apps, studying cells."</i>
