@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 160" width="680" height="160" role="img">
+<title>Terminal matrix animation</title>
+<desc>Animated matrix-style terminal for Fadil Nugroho GitHub profile</desc>
+<style>
+  rect.bg{fill:#0d1117}
+  rect.bar{fill:#161b22}
+  rect.border{fill:none;stroke:#30363d;stroke-width:1}
+  circle.dot-r{fill:#ff5f57}
+  circle.dot-y{fill:#febc2e}
+  circle.dot-g{fill:#28c840}
+  text.title{font:12px monospace;fill:#8b949e;text-anchor:middle}
+  text.col{font:13px monospace;fill:#00ff88;text-anchor:middle}
+  text.col-dim{font:13px monospace;fill:#00cc66;text-anchor:middle}
+  text.col-bright{font:13px monospace;fill:#ffffff;text-anchor:middle}
+  text.prompt{font:13px monospace;fill:#00ff88}
+  text.prompt-text{font:13px monospace;fill:#c9d1d9}
+  @keyframes fall0{0%{opacity:0;transform:translateY(-140px)}15%{opacity:1}85%{opacity:1}100%{opacity:0;transform:translateY(140px)}}
+  @keyframes fall1{0%{opacity:0;transform:translateY(-140px)}15%{opacity:1}85%{opacity:1}100%{opacity:0;transform:translateY(140px)}}
+  @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+  .c0{animation:fall0 2.1s linear infinite;animation-delay:0s}
+  .c1{animation:fall0 2.4s linear infinite;animation-delay:0.3s}
+  .c2{animation:fall0 1.9s linear infinite;animation-delay:0.7s}
+  .c3{animation:fall0 2.6s linear infinite;animation-delay:0.1s}
+  .c4{animation:fall0 2.2s linear infinite;animation-delay:0.9s}
+  .c5{animation:fall0 2.0s linear infinite;animation-delay:0.5s}
+  .c6{animation:fall0 2.5s linear infinite;animation-delay:0.2s}
+  .c7{animation:fall0 1.8s linear infinite;animation-delay:0.8s}
+  .c8{animation:fall0 2.3s linear infinite;animation-delay:0.4s}
+  .c9{animation:fall0 2.1s linear infinite;animation-delay:0.6s}
+  .c10{animation:fall1 2.4s linear infinite;animation-delay:1.1s}
+  .c11{animation:fall1 2.0s linear infinite;animation-delay:1.4s}
+  .c12{animation:fall1 2.6s linear infinite;animation-delay:1.0s}
+  .c13{animation:fall1 1.9s linear infinite;animation-delay:1.3s}
+  .c14{animation:fall1 2.2s linear infinite;animation-delay:1.7s}
+  .c15{animation:fall1 2.5s linear infinite;animation-delay:1.2s}
+  .c16{animation:fall1 2.1s linear infinite;animation-delay:1.6s}
+  .c17{animation:fall1 1.8s linear infinite;animation-delay:1.5s}
+  .c18{animation:fall1 2.3s linear infinite;animation-delay:1.8s}
+  .c19{animation:fall1 2.0s linear infinite;animation-delay:1.9s}
+  .cursor{animation:blink 1s step-end infinite}
+</style>
+<clipPath id="clip"><rect x="0" y="28" width="680" height="132"/></clipPath>
+
+<rect class="bg" width="680" height="160" rx="10"/>
+<rect class="bar" x="0" y="0" width="680" height="28" rx="10"/>
+<rect x="0" y="14" width="680" height="14" class="bar"/>
+<rect class="border" x="0.5" y="0.5" width="679" height="159" rx="10"/>
+<line x1="0" y1="28" x2="680" y2="28" stroke="#30363d" stroke-width="0.5"/>
+<circle class="dot-r" cx="20" cy="14" r="5"/>
+<circle class="dot-y" cx="38" cy="14" r="5"/>
+<circle class="dot-g" cx="56" cy="14" r="5"/>
+<text class="title" x="340" y="19">fadil@github ~ terminal</text>
+
+<g clip-path="url(#clip)">
+  <g class="c0 col" transform="translate(20,28)"><text y="16">A</text><text y="32">T</text><text y="48">C</text><text y="64">G</text><text y="80" class="col-bright">N</text><text y="96">0</text><text y="112">1</text></g>
+  <g class="c1 col-dim" transform="translate(47,28)"><text y="20">G</text><text y="36">A</text><text y="52">T</text><text y="68">C</text><text y="84">A</text><text y="100" class="col-bright">N</text><text y="116">G</text></g>
+  <g class="c2 col" transform="translate(74,28)"><text y="10">1</text><text y="26">0</text><text y="42">1</text><text y="58" class="col-bright">1</text><text y="74">0</text><text y="90">0</text><text y="106">1</text></g>
+  <g class="c3 col-dim" transform="translate(101,28)"><text y="24">C</text><text y="40">G</text><text y="56">A</text><text y="72">T</text><text y="88">C</text><text y="104" class="col-bright">G</text></g>
+  <g class="c4 col" transform="translate(128,28)"><text y="14">0</text><text y="30">1</text><text y="46" class="col-bright">0</text><text y="62">0</text><text y="78">1</text><text y="94">1</text><text y="110">0</text></g>
+  <g class="c5 col-dim" transform="translate(155,28)"><text y="18">T</text><text y="34">A</text><text y="50">G</text><text y="66" class="col-bright">C</text><text y="82">T</text><text y="98">A</text><text y="114">G</text></g>
+  <g class="c6 col" transform="translate(182,28)"><text y="22">N</text><text y="38">N</text><text y="54">A</text><text y="70">T</text><text y="86" class="col-bright">C</text><text y="102">G</text></g>
+  <g class="c7 col-dim" transform="translate(209,28)"><text y="12">1</text><text y="28">0</text><text y="44">1</text><text y="60">0</text><text y="76">1</text><text y="92" class="col-bright">0</text><text y="108">1</text></g>
+  <g class="c8 col" transform="translate(236,28)"><text y="16">G</text><text y="32">C</text><text y="48" class="col-bright">T</text><text y="64">A</text><text y="80">G</text><text y="96">C</text><text y="112">T</text></g>
+  <g class="c9 col-dim" transform="translate(263,28)"><text y="20">A</text><text y="36">T</text><text y="52">C</text><text y="68" class="col-bright">G</text><text y="84">A</text><text y="100">T</text></g>
+  <g class="c10 col" transform="translate(300,28)"><text y="14">0</text><text y="30">1</text><text y="46">0</text><text y="62">1</text><text y="78" class="col-bright">1</text><text y="94">0</text><text y="110">0</text></g>
+  <g class="c11 col-dim" transform="translate(327,28)"><text y="18">C</text><text y="34">G</text><text y="50">A</text><text y="66">T</text><text y="82">C</text><text y="98" class="col-bright">G</text></g>
+  <g class="c12 col" transform="translate(354,28)"><text y="22">T</text><text y="38" class="col-bright">A</text><text y="54">G</text><text y="70">C</text><text y="86">T</text><text y="102">A</text></g>
+  <g class="c13 col-dim" transform="translate(381,28)"><text y="10">1</text><text y="26">0</text><text y="42">1</text><text y="58">0</text><text y="74" class="col-bright">1</text><text y="90">0</text><text y="106">1</text></g>
+  <g class="c14 col" transform="translate(408,28)"><text y="16">N</text><text y="32">N</text><text y="48">G</text><text y="64" class="col-bright">A</text><text y="80">T</text><text y="96">C</text></g>
+  <g class="c15 col-dim" transform="translate(435,28)"><text y="20">A</text><text y="36">G</text><text y="52" class="col-bright">T</text><text y="68">C</text><text y="84">A</text><text y="100">G</text><text y="116">T</text></g>
+  <g class="c16 col" transform="translate(462,28)"><text y="24">0</text><text y="40">1</text><text y="56">0</text><text y="72">0</text><text y="88" class="col-bright">1</text><text y="104">1</text></g>
+  <g class="c17 col-dim" transform="translate(489,28)"><text y="12">C</text><text y="28">T</text><text y="44">A</text><text y="60" class="col-bright">G</text><text y="76">C</text><text y="92">T</text><text y="108">A</text></g>
+  <g class="c18 col" transform="translate(516,28)"><text y="18">G</text><text y="34">C</text><text y="50">A</text><text y="66">T</text><text y="82" class="col-bright">G</text><text y="98">C</text></g>
+  <g class="c19 col-dim" transform="translate(543,28)"><text y="22">1</text><text y="38">0</text><text y="54" class="col-bright">1</text><text y="70">0</text><text y="86">1</text><text y="102">0</text></g>
+  <g class="c0 col" transform="translate(570,28)"><text y="16">A</text><text y="32">T</text><text y="48">C</text><text y="64" class="col-bright">G</text><text y="80">N</text><text y="96">0</text></g>
+  <g class="c1 col-dim" transform="translate(597,28)"><text y="10">T</text><text y="26">G</text><text y="42">C</text><text y="58">A</text><text y="74" class="col-bright">T</text><text y="90">G</text><text y="106">C</text></g>
+  <g class="c2 col" transform="translate(624,28)"><text y="20">0</text><text y="36">1</text><text y="52" class="col-bright">0</text><text y="68">1</text><text y="84">0</text><text y="100">1</text></g>
+  <g class="c3 col-dim" transform="translate(651,28)"><text y="14">A</text><text y="30">T</text><text y="46">C</text><text y="62" class="col-bright">G</text><text y="78">N</text><text y="94">A</text><text y="110">T</text></g>
+</g>
+
+<rect x="0" y="130" width="680" height="30" rx="0" fill="#0d1117"/>
+<rect x="0" y="148" width="680" height="12" rx="0" style="fill:#0d1117"/>
+<text class="prompt" x="20" y="148">~</text>
+<text class="prompt" x="36" y="148" style="fill:#c9d1d9">$</text>
+<text class="prompt-text" x="50" y="148"> ./fadil --mode engineer+bioinformatics</text>
+<rect class="cursor" x="388" y="136" width="8" height="14" fill="#00ff88"/>
+</svg>
