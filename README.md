@@ -64,7 +64,7 @@ Currently strengthening my skills in **AI/ML applied to genomics** as preparatio
 ### 📬 Reach me
 
 - 📧 fadil.nugroho124@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
+- 💼 [LinkedIn](https://linkedin.com/in/fadil-nugroho-788223274/)
 - 📍 Jakarta, Indonesia
 
 ---
