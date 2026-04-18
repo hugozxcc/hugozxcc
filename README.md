@@ -21,17 +21,22 @@ Currently strengthening my skills in **AI/ML applied to genomics** as preparatio
 
 ### 🛠 Tech stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&#x26;logo=python&#x26;logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&#x26;logo=scikit-learn&#x26;logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/XGBoost-000000?style=flat&#x26;logo=xgboost&#x26;logoColor=white" alt="XGBoost">
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&#x26;logo=pandas&#x26;logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&#x26;logo=django&#x26;logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&#x26;logo=go&#x26;logoColor=white" alt="Go">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&#x26;logo=postgresql&#x26;logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&#x26;logo=docker&#x26;logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&#x26;logo=jenkins&#x26;logoColor=white" alt="Jenkins">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&#x26;logo=javascript&#x26;logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&#x26;logo=react&#x26;logoColor=black" alt="React">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=flat&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ---
 
