@@ -69,9 +69,8 @@ Currently strengthening my skills in **AI/ML applied to genomics** as preparatio
 
 ---
 <p align="center">
-  <img src="terminal.svg" alt="terminal animation" />
+  <img src="dna.svg" alt="DNA helix animation" />
 </p>
-
 <p align="center">
   <i>"Building apps, studying cells."</i>
 </p>
